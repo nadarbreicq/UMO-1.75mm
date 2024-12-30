@@ -1,8 +1,15 @@
 # UMO-1.75mm
 
-Upgrade the Ultimaker Original to use 1.75 mm filaments.
+The Ultimaker Original, released in 2011, was my first personal 3D printer. I received it at the end of 2012 and used it without major issues until 2020. However, after that, several challenges arose:
 
-WIP
+- All my other printers used 1.75 mm filament, and I no longer wanted to manage two separate filament stocks due to insufficient throughput.
+- The hotend of my Ultimaker Original started to show its age, and high-quality replacement parts were either unavailable or too expensive.
+- The extruder had become almost unusable and suffered from the same supply issues as the hotend.
+- Determined to keep this fantastic machine running—still capable, I’m sure, of producing quality prints—I decided to modify it to use standard Ender 3 parts and transition to 1.75 mm filament.
+
+The goal of this repository is to share this journey with you and maybe even inspire you to try it yourself if you're interested! 😊
+
+*This project is still a Work in Progress.*
 
 ---
 
